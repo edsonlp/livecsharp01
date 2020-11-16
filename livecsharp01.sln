@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "livecsharp01", "livecsharp01\livecsharp01.csproj", "{FADA176A-640A-4C37-9F51-CF570044CEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADA176A-640A-4C37-9F51-CF570044CEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADA176A-640A-4C37-9F51-CF570044CEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADA176A-640A-4C37-9F51-CF570044CEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADA176A-640A-4C37-9F51-CF570044CEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CD4061-8AA2-4432-B9E3-FDF9E6410B0B}
+	EndGlobalSection
+EndGlobal
